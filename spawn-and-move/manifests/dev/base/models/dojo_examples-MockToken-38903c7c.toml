@@ -1,0 +1,16 @@
+kind = "DojoModel"
+class_hash = "0x4d9dfa45ceeb2fa6051d9cf4fb469ad0354becd3c9830595b941d6fd4eb2202"
+original_class_hash = "0x4d9dfa45ceeb2fa6051d9cf4fb469ad0354becd3c9830595b941d6fd4eb2202"
+abi = "manifests/dev/base/abis/models/dojo_examples-MockToken-38903c7c.json"
+tag = "dojo_examples-MockToken"
+manifest_name = "dojo_examples-MockToken-38903c7c"
+
+[[members]]
+name = "account"
+type = "ContractAddress"
+key = true
+
+[[members]]
+name = "amount"
+type = "u128"
+key = false
